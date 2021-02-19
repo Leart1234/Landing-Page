@@ -1,0 +1,17 @@
+body{
+    background-color: #B3CFDD;
+}
+nav {
+    font-family: 'Montserrat', sans-serif;
+    position: -webkit-sticky;
+    position: fixed;
+    top: 0;
+    height: 69px;
+    width: 100%;
+  }
+.btn {
+    min-width: 100px;
+    background-color:blue;
+    color:white;
+}
+
